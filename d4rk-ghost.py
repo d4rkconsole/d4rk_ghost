@@ -635,10 +635,11 @@ while True:
 		print(c + "[!] Dont Run use command alone Type use [module_name] to use a module " )
 
 
-	if prompt == "":
-		pass
+	
 
 	else:
-		print("[-] Enter Correct Command type help or ? command in console ")
+		pass
 
+		
+print(reset)
 
