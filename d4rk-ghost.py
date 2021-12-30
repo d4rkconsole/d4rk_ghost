@@ -196,16 +196,20 @@ while True:
 		break
 
 
+
 	if prompt == "modules":
 		modules()
+		continue
 
 	
 	if prompt == "help" or prompt == "?":
 		help()
+		continue
 
 	if prompt == "clear":
 		os.system("clear || cls")
 		banner()
+		continue
 
 
 	if prompt == "use ddos":
@@ -213,13 +217,16 @@ while True:
 			prompt2 = input(Fore.YELLOW + "(d4rk_Ghost)" + Fore.RED + "[ddos]"  + Fore.CYAN +  " > ")
 			if prompt2 == "show":
 				ddos()
+				continue
 
 			if prompt2 == "clear":
 				os.system("clear || cls")
 				banner()
+				continue
 
 			if prompt2 == "back":
 				break
+				
 			if prompt2 == "exit":
 				print(b , "[!] Exiting The d4rk Ghost frameowrk ")	
 				sys.exit()
@@ -372,13 +379,16 @@ while True:
 			prompt3 = input(Fore.YELLOW + "(d4rk_Ghost)" + Fore.RED + "[auxiliary]" + Fore.CYAN + " > " )
 			if prompt3 == "show":
 				auxiliary()
+				continue
 
 			if prompt3 == "clear":
 				os.system("clear || cls")
 				banner()
+				continue
 
 			if prompt3 == "back":
 				break
+				
 
 			if prompt3 == "exit":
 				print(b , "[!] Exiting The d4rk Ghost Framework")
@@ -488,15 +498,19 @@ while True:
 
 			prompt4 = input(Fore.YELLOW + "(d4rk_Ghost)" + Fore.RED + "[wordpressscan]" + Fore.CYAN + " > ")
 			if prompt4 == "show":
-				wordpress()			
+				wordpress()
+				continue		
 
 			if prompt4 == "clear":
 				os.system("clear || cls")
 				banner()
+				continue
 
 			
 			if prompt4 == "back":
-				break	
+				break
+				
+				
 
 			if prompt4 == "exit":
 				print(b + "[!] Exiting the d4rk Ghost Framework ")
@@ -521,7 +535,8 @@ while True:
 			prompt5 = input(Fore.YELLOW + "(d4rk_Ghost)" + Fore.RED + "[proxies]" +  Fore.CYAN + " > ")
 
 			if prompt5 == "show":
-				proxy()	
+				proxy()
+				continue
 
 			if prompt5 == "exit":
 				print(b + "[!] Exiting the d4rk_Ghost Framework ")
@@ -530,11 +545,14 @@ while True:
 			
 			if prompt5 == "back":
 				break
+				
+				
 
 			
 			if prompt5 == "clear":
 				os.system("clear || cls")
 				banner()
+				continue
 
 
 			if prompt5 == "httproxy":
@@ -576,6 +594,7 @@ while True:
 
 			if prompt6 == "show":
 				exploit()
+				continue
 
 			if prompt6 == "exit":
 				print(b + "[!] Exiting the d4rk_Ghost Framework ")
@@ -583,10 +602,13 @@ while True:
 
 			if prompt6 == "back":
 				break
+				
+
 
 			if prompt6 == "clear":
 				os.system("clear || cls")
 				banner()
+				continue
 
 			if prompt6 == "xsscan":
 				target_website = str(input(c + "[Website:~] # "))
@@ -631,15 +653,13 @@ while True:
 		print(c + "[!] Dont Run show command Now First use any module then Type show comand to\nShow the list of items to use")
 
 
-	if prompt == "use":
+	elif prompt == "use":
 		print(c + "[!] Dont Run use command alone Type use [module_name] to use a module " )
 
 
-	
-
-	else:
+	elif prompt == "":
 		pass
 
-		
-print(reset)
+	else:
+		print("[-] Enter Correct Command type help or ? command in console ")
 
