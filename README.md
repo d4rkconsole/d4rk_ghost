@@ -33,7 +33,7 @@ for example use auxiliary and the type show command in console to get the list o
 # setup 
 i have added a setup file to install all neccessary modules 
 
-1 ) git clone https://github.com/d4rk_ghost
+1 ) git clone https://github.com/d4rkconsole/d4rk_ghost
 
 2 ) cd d4rk_ghost
 
