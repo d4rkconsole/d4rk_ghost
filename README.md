@@ -5,15 +5,15 @@ d4rk Ghost is all in one hacking framework For red team Pentesting
 Please Only use this framework for educational purpose i am not going to  responsible for your any misuse of this tool 
 d4rk Ghost framework Need python3 so here python3 must be installed to run this tool 
 # Credit 
-Bane module Credit Goes to -  ala,s0u1 
-bane module can find here - https://github.com/AlaBouali/bane
+Bane module Credit Goes to -  __ala,s0u1__ 
+bane module can find here - [ala](https://github.com/AlaBouali/bane)
 
-Follow my friend s0u1 - https://github.com/HLoTW
+Follow my friend s0u1 - [s0u1](https://github.com/HLoTW)
 
 # Version
-d4rk Ghost Framework - Version 1.0
+d4rk Ghost Framework - Version 2.0
 
-In future i am going to keep updating this repo 
+__Here i have fixed bugs and make this tool more robust but i have not added new modules yet but in next version i will sure add.__
 
 # Usage
 [+] commands list and their usage
