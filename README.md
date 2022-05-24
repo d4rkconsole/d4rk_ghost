@@ -4,16 +4,20 @@ __d4rk Ghost is all in one hacking framework For red team Pentesting.__
 
 --- 
 
-*Quote - __"A Failure person is more intelligent than your school,college scholar or topper"__
+*Quote - __"A Failure person is more intelligent than your school scholar or topper"__
 
 ---
 
 # Note
-Please Only use this framework for educational purpose i am not going to  responsible for your any misuse of this tool 
+
+__Please Only use this framework for educational purpose i am not going to  responsible for your any misuse__
 
 ---
  
 # Credit 
+
+---
+
 Bane module Credit Goes to -  __ala,s0u1__ 
 bane module can find here - [ala](https://github.com/AlaBouali/bane)
 
@@ -29,22 +33,48 @@ __Here i have fixed bugs and make this tool more robust but i have not added new
 ---
 
 # Usage
-[+] commands list and their usage
 
-use - use command is used to use any module for example => __use auxiliary__
+__[+] commands list and their usage__
 
-back - back commmand is going to take us back to the main menu 
+--- 
 
-exit - exit command is used to exit the d4rk ghost framework
+1) *use - use command is used to use any module for example => __use auxiliary__
 
-clear - clear command is used to clear the console 
+2) *back - back commmand is going to take us back to the main menu 
 
-show -  show command is used to show the items which are inside any module first use a module
+3) *exit - exit command is used to exit the d4rk ghost framework
+
+4) *clear - clear command is used to clear the console 
+
+5) *show -  show command is used to show the items which are inside any module first use a module
+
+6) *cls - cls command to clear the screen
+
+8) *modules - modules command to list down all the modules that is avaliable
+
+9) *version - version command is going to print current version of this tool
+ 
+10) *author - author command is going to show us info about author of this tool and author of bane module
+ 
+11) *banner - banner command is going to print the banner
+ 
+12) *quit - quit command to quit the console
+ 
+13) *help - help command to show help menu
+
+14) *? - ? command to show the help menu
+  
+15)  *update - update command to update python __bane__ module
 
 for example use auxiliary and the type show command in console to get the list of items to use 
 
+---
+
 # setup 
+
 i have added a setup file to install all neccessary modules 
+
+---
 
 1 ) __git clone https://github.com/d4rkconsole/d4rk_ghost__
 
