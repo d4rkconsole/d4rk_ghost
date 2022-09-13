@@ -88,9 +88,10 @@ This will install all important modules
 
 and finally run the d4rk_Ghost framework with command
 
-./d4rk-ghost.py or python3 d4rk-ghost.py
+./d4rk-ghost.py or python3 d4rk-ghost 
 
-------------------------------------------------------------------
+--- 
+
 Enjoy  the tool :) 
 
 
