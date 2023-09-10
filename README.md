@@ -22,7 +22,7 @@ __Please Only use this framework for educational purpose i am not going to  resp
 Bane module Credit Goes to -  __ala,s0u1__ 
 bane module can find here - [ala](https://github.com/AlaBouali/bane)
 
-Follow my friend s0u1 - [s0u1](https://github.com/HLoTW)
+s0u1 - [s0u1](https://github.com/HLoTW)
 
 ---
 
