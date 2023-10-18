@@ -1,8 +1,5 @@
 # d4rk_ghost
 
-__d4rk Ghost is all in one hacking framework For red team Pentesting__
-
-
 
 Quote - __"A Failure person is more intelligent than toppers or scholars"__
 
