@@ -10,7 +10,7 @@ Quote - __"A Failure person is more intelligent than toppers or scholars"__
 
 # Note
 
-__Please Only use this framework for educational purpose i am not going to  responsible for your any misuse__
+__Please Only use this framework for educational purpose. 
 
  ---
  
