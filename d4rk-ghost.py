@@ -3,10 +3,10 @@
 #----------------------------------------------------------------------#
 # Bane module Credit Goes to - ala,s0u1
 #
-# Hello to s0u1 :) 
+# 
 #----------------------------------------------------------------------#
 # d4rk ghost framework version 2.1
-# Coded by d4rk sh4d0w - hacker and programmer
+
 
 
 
